@@ -1,0 +1,17 @@
+#con{
+    background-color: antiquewhite;
+}
+#col1{
+    background-color: blue;
+    height: 1000px
+}
+#col2{
+    background-color:white;
+}
+#row1{
+    background-color: aliceblue;
+}
+#p1{
+    font-size: large;
+    align-content: center;
+}
